@@ -1,12 +1,10 @@
-![vintagetinman](screen.svg)
+<img align="center" src="screen.svg">
 
 <p align="center">
   A CSS theme for Obsidian!
 </p>
 
 ---
-
-![screenshot](screen.svg)
 
 
 If you want to see the theme fonts, install these:
